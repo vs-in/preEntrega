@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(28, 36, 36);
+}
+header {
+  background-color: rgb(82, 74, 63);
+  padding: 15px;
+  margin: 35px;
+}
+h1 {
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+article {
+  display: flex;
+  justify-content: center;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  width: 112rem;
+  background-color: rgb(82, 74, 63);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
