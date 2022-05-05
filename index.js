@@ -67,3 +67,14 @@ let productos = [
     "stock": 5,
   },
 ];
+
+// agregando nuevo articulo //
+let articulo = {
+  "nombre": "Gabinete CoolerMaster",
+  "garantia": "No tiene",
+  "condicion": "Reacondicionado",
+  "stock": "Unico",
+}
+
+productos.push(articulo);
+
